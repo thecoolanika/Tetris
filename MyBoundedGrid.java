@@ -4,9 +4,6 @@ import java.util.ArrayList;
  * MyBoundedGrid is the grid on which the game is played with the blocks
  * It is a rectangular grid with limited roqs and columns
  * 
- * @author Anika Pandey
- * @version 5/09/23
-
  * 
  * @param <E> the elements that may be put in the grid are any objects
  */
