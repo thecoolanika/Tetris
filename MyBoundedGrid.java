@@ -6,6 +6,8 @@ import java.util.ArrayList;
  * 
  * 
  * @param <E> the elements that may be put in the grid are any objects
+ * @author Anika Pandey
+ * @version 5/09/23
  */
 public class MyBoundedGrid<E>
 {
