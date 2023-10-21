@@ -1,9 +1,6 @@
 /**
  * ArrowListener establishes the name of the methods that
- * respond to the four arrow keys.
- * 
- * @author Anika Pandey
- * @version 5/09/23
+ * respond to the four arrow keys
  */
 public interface ArrowListener
 {
