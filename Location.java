@@ -7,32 +7,6 @@
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation.
  *
- * This code is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * @author Alyce Brady
- * @author Chris Nevison
- * @author APCS Development Committee
- * @author Cay Horstmann
- * @author Susan King
- * @version May 15, 2015   Add Javadoc's
- */
-
-// PACKAGE REMOVED FOR BLOCK/TETRIS LAB (DF)
-//package info.gridworld.grid;
-
-/**
- * A <code>Location</code> object represents the row and column of a location
- * in a two-dimensional grid. <br />
- * 
- * @author Alyce Brady
- * @author Chris Nevison
- * @author APCS Development Committee
- * @author Cay Horstmann
- * @author Susan King
- * @version May 15, 2015   Added documentation
  */
 public class Location implements Comparable
 {
