@@ -3,6 +3,8 @@ import java.awt.Color;
  * Block class maintains information about a block.
  * This class is extremely flexible to multiple games;
  * such as Tile Game, Tetris, and Tic-Tac-Toe.
+ * @author Anika Pandey
+ * @version 5/09/23
  */
 public class Block
 {
